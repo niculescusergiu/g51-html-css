@@ -29,3 +29,9 @@ Htlm tag is like a container
 Htlm is a Root Element
 Head tag is where we usually configure the document by including resources that we can use to enhance the page
 Body tag is, where we frequently present the content of our page and desired info etc.
+
+HTML Semantic Elements
+
+
+
+
