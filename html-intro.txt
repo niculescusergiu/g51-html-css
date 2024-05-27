@@ -1,0 +1,31 @@
+Overview of Web Development
+
+- Process of creating websites and web applications.
+- Web page is made up of HTML code
+- Browser sends the request to the server to access the webpage
+- Server computer provides fucntionality, is where web pages are stored
+- HTTP protocol enables communication between browsers and servers
+
+The process of information is following
+
+- User enters the webpage link
+- Browser sends a request to the webpage's server
+- Frontend makes a request to the backend of the server
+- Backend sends the response back through frontend 
+
+What is HTML?
+
+- Hyper Text Markup Language
+- Standard markup language for creating Web pages
+- To Structure & Describe the content of Web pages
+- Consists of elements that describe different types of content
+    paragraphs, links,
+
+
+HTML Document Structure
+
+HTML document follows a specirfic format to define the elements and content of a webpage
+Htlm tag is like a container
+Htlm is a Root Element
+Head tag is where we usually configure the document by including resources that we can use to enhance the page
+Body tag is, where we frequently present the content of our page and desired info etc.
