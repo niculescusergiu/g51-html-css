@@ -1,0 +1,17 @@
+What is CSS?
+
+- Cascading Style Sheets
+- Style sheet language
+- Describes how HTML elements should be displayed 
+
+CSS Syntax & Rule
+
+- CSS rule consists of a selector & a declaration block
+
+selector { declaration block or style }
+
+- Each declaration block contains one or more declaration block.
+- Declaration includes a CSS property name & a value, separated by a colon.
+
+selector {property name: value}
+
